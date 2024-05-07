@@ -1,0 +1,2 @@
+  Advance velocity    Advance ratio    Wake fraction
+     9.866416933       0.877087237      0.013358307
